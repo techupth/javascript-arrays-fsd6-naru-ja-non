@@ -22,3 +22,6 @@ const employees = [
 ];
 
 // Start coding here
+// Kody's object is in the last order in array: pop command
+employees.pop();
+console.log(employees);
